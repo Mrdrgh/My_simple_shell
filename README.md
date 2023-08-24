@@ -18,7 +18,7 @@ echo "command" | program_name
 ```
 
 ### Non Piped Command Usage
-or we can use the program in interactive mode, just like sh or born_again_sh ,to start using it run :
+or we can use the program in interactive mode, just like sh or born_again_sh ,to start using it run the program and then do your commands just like a normal shell :
 ```./hsh
 $ (command) 
 (prompt)
